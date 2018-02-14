@@ -527,19 +527,19 @@ configure() {
         cUi
     fi
 
-    # Systems setup
-    cPhp
-    cNodeJs
+    ## Systems setup
+    # cPhp
+    # cNodeJs
     cGit
     cDocker
-    cMySqlWorkbench
+    # cMySqlWorkbench
     cMongoDb
     cVsCodeIde
-    cPhpStormIde
-    cPyCharmIde
-    cBracketsIde
-    cSlack
-    cFacebookMessenger
+    # cPhpStormIde
+    # cPyCharmIde
+    # cBracketsIde
+    # cSlack
+    # cFacebookMessenger
     cPopcornTime
     cLocalesPlusKeymap
     cClean
